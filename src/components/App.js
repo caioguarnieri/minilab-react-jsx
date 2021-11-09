@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="container mt-5 mb-5 col-6">
       {/* Não se esqueça de invocar seus componentes aqui! */}
+      
       <small>Interpolação de variáveis</small>
 
       <small>Imagens</small>
